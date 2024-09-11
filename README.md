@@ -1,0 +1,1 @@
+# print_image_bluetooth_printer_thermal
