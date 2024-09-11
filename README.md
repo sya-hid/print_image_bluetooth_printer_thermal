@@ -21,4 +21,4 @@
 <img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" width="100"></a>
 </p>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid"/>    
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid/print_image_bluetooth_printer_thermal"/>    
